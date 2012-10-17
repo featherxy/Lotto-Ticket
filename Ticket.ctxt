@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Ticket()
+comment0.text=\n\ Constructor\ to\ check\ the\ user\ enters\ a\ number\ over\ 0\ and\ then\n\ start\ the\ ticket\ creating\ process\n
+comment1.params=
+comment1.target=void\ checkNumber()
+comment1.text=\n\ The\ actual\ method\ that\ checks\ the\ users\ number\ and\ creates\ the\ ticket\n
+comment2.params=
+comment2.target=void\ makeTicket()
+comment2.text=\n\ Method\ that\ prints\ the\ ticket\ itself,\ adds\ a\ 0\ to\ any\ single\ digit\n\ then\ repeats\ for\ as\ many\ lines\ as\ the\ user\ enters.\ Each\ line\ is\ also\n\ added\ to\ the\ ArrayList\n
+comment3.params=
+comment3.target=void\ reprintTicket()
+comment3.text=\n\ Method\ to\ recall\ the\ information\ in\ the\ ArrayList\ and\ reprint\ the\ ticket\n
+numComments=4

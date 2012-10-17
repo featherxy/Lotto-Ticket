@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Numbers()
+comment0.text=\n\ Constructor\ to\ call\ the\ generateLine\ method\ as\ soon\ as\ the\ ticket\ is\ created.\n
+comment1.params=
+comment1.target=int\ generateNumber()
+comment2.params=
+comment2.target=void\ generateLine()
+comment2.text=\n\ the\ +1\ at\ the\ end\ of\ generateNumber\ is\ there\ as\ a\ simple\ fix\ for\ not\ allowing\ the\ number\ 0\ in\ the\ draw.\ Instead\ of\ checking\ each\ number\ generated\ if\ its\ the\ number\ 0,\ I\ simply\ make\ the\ number\ generators\ max\ number\ 1\ less\ than\ it\ needs\ to\ be,\ then\ add\ one\ to\ whatever\ number\ is\ generated.\ This\ way\ the\ number\ 0\ can\ never\ be\ chosen\ and\ will\ always\ be\ between\ 1\ and\ 49.\n\ \n\ @param\ z\ z\ is\ a\ very\ simple\ throwaway\ variable\ used\ for\ counting\ ina\ \ loop\n
+comment3.params=
+comment3.target=void\ checkDuplicates()
+comment3.text=\n\ checkDuplicates\ is\ used\ to\ check\ for\ any\ duplicates\ in\ a\ line\n
+numComments=4
